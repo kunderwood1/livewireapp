@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "CityNameDbApp", "CityNameDbApp.phpproj", "{4D333EF2-C856-47C4-B62C-6C90EE87298E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D333EF2-C856-47C4-B62C-6C90EE87298E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D333EF2-C856-47C4-B62C-6C90EE87298E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E626B67F-FF8C-4B19-87BC-243E25316BE0}
+	EndGlobalSection
+EndGlobal
